@@ -1,0 +1,5 @@
+Host *
+IdentityFile ~/.ssh/id_rsa1
+
+Host *
+IdentityFile ~/.ssh/id_rsa
